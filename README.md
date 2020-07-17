@@ -10,8 +10,8 @@ network. This system focuses on online communication along with a security featu
 
 ![myimage-alt-tag](https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(236).png)
 
-https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(238).png
+![myimage-alt-tag](https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(238).png)
 
-https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(242).png
+![myimage-alt-tag](https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(242).png)
 
-https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(244).png
+![myimage-alt-tag](https://raw.githubusercontent.com/Bhavyav99/Social_Media_Application/master/Screenshots/Screenshot%20(244).png)
